@@ -1,0 +1,3 @@
+ivan, silver, 715, Yes, 01125254684
+james, silver, 650, No, 01145675251
+raden, bronze, 1300, Yes, 01188915776
